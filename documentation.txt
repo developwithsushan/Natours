@@ -1,0 +1,4 @@
+NPM Packages Installation Guidelines
+npm init 
+npm install node-sass --save-dev
+npm install jquery --save 
