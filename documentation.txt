@@ -29,3 +29,31 @@ Layouts Types
 2. Flexbox : Modern way of laying out elements in a 1-dimensional row without using floats. Perfect for components layouts
 3. CSS Grid : For laying out element in a fully-fledged 2-dimensional grid. Perfec for page layouts and complex components. 
 
+
+
+SELECTING OUR BREAKPOINTS : A GOOD APPROACH
+1. PHONE ONLY
+    320x568
+    360x640
+    375x667
+    480x800
+
+2. TABLET PORTRAIT
+   720x1280
+   768x1024
+
+3. TABLET LANDSCAPE
+   1024x768
+
+4. DESKTOP
+    1280x800
+    1280x1024
+
+    1336x768
+
+    1440x900
+
+    1600x900
+
+ 5. BIG DESKTOP
+    1920x1080
