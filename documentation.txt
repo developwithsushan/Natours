@@ -57,3 +57,13 @@ SELECTING OUR BREAKPOINTS : A GOOD APPROACH
 
  5. BIG DESKTOP
     1920x1080
+
+
+ What are Responsive Images Anyway ?
+  Responsive Images - The goal of responsive images is to serve the right image to the right screen size
+  and device in order to avoid downloading unnecessary large images on smaller screens.
+
+  How to Use Responsive Images : 3 Use Cases
+  1. Resolution Switching  - Decrease image resolution on smaller screen
+  2. Density Switching  - Half the image resolution on @1x screen
+  3. Art Direction -  Different images on smaller screen,  image details are preserved but the image is different
